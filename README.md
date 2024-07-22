@@ -15,22 +15,24 @@ Model Process:-
 2) Extracting the dataset: Extraction Yelp Dataset
 
 3) NLP Classification: Filtering the ratings columns into  binary format that is 1 or 5. Then Assinging the target and input variables.
+
    Input Variable:- 'text'
+
    Target Variable:- 'stars'
 
-4) Tokenization: This procedure focuses on converting the sentences in text column into the number of unique words.
+5) Tokenization: This procedure focuses on converting the sentences in text column into the number of unique words.
    
-5) Text processing: Conversion of text document into sparse matrix.
+6) Text processing: Conversion of text document into sparse matrix.
 
-6) Splitting of dataset into traning and testing set: Assinging 70% of the dataset to the traning procedire and 30% to the testing set.
+7) Splitting of dataset into traning and testing set: Assinging 70% of the dataset to the traning procedire and 30% to the testing set.
 
-7) Application of Naive Bais Clasiffier: Applying Naive Bais Clasiffier to the dataset.
+8) Application of Naive Bais Clasiffier: Applying Naive Bais Clasiffier to the dataset.
 
-8) Developing a data pipeline: Creation of data pipeline to automate the prediction process of customer ratings.
+9) Developing a data pipeline: Creation of data pipeline to automate the prediction process of customer ratings.
 
-9)  Model Evaluatation: The model demonstrates 81% accuracy in the predictions process.  
+10)  Model Evaluatation: The model demonstrates 81% accuracy in the predictions process.  
 
-10) Exploratory Data Analysis (EDA):
+11) Exploratory Data Analysis (EDA):
 
       a) Application of Facetgrid to visualise 5 histograms of text length based on star rating
 
