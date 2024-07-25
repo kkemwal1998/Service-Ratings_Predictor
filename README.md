@@ -1,10 +1,17 @@
 Project Name: Service Ratings Predictor
 
-Dataset information:The dataset consists of the information about the reviews and feedback that have been provided by the customers on the services offered by busuness organisations across USA and Canada.
+Dataset information:The dataset consists of the information about the reviews and feedback that have been provided by the customers on the services offered by business organisations across USA and Canada.
 
 Data source: https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset/data
 
 Project Objective: The project focuses on empowering the small business in analysing the star ratings with the help of predective model that uses a  machine learning algorithm named 'Natural Langauge Processing' on a scale from 1 to 5 based on the feedback reviews provided by their clients and customers. 
+
+Project Format: The project follows E.T.L framework to manipulate Yelp database. 
+
+
+[Kaggle]------------------------------------------------------------------------>[Python]---------------------------------------------------->[PostgreSql]
+Extract                                                                        Transformation                                                 Loading
+
 
 Algorithms Applied: NLP (Natural Langauge Processing)
 
