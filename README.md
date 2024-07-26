@@ -9,8 +9,8 @@ Project Objective: The project focuses on empowering the small business in analy
 Project Format: The project follows E.T.L framework to manipulate Yelp database. 
 
 
-[Kaggle]-------------------------------------------------->[Python]-------------------------------------------->[PostgreSql]
-Extract                                                 Transformation                                            Loading
+[Kaggle]------------------------>[Python]---------------->[PostgreSql]
+Extract                      Transformation                Loading
 
 
 Algorithms Applied: NLP (Natural Langauge Processing)
