@@ -76,7 +76,8 @@ Model Process:-
 
          order by Review_Count DESC;
 
-         Conclusion: User id 'fczQCSmaWF78toLEmb0Zsw' has the maximum review count. 
+         Conclusion: User id 'fczQCSmaWF78toLEmb0Zsw' has the maximum review count.
+    
 
     b)Business id with 5 star ratings who have received 'cool' word maximum times in their text columns under text type as reviews.
 
