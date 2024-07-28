@@ -138,5 +138,5 @@ Model Process:-
 
     Stars_Table;
     
-    Conclusion: Business Year '2012' has got the maximum freqyuency of 5 star ratings by the customers.  
+    Conclusion: Business Year '2012' has got the maximum frequency of 5 star ratings by the customers.  
 
