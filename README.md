@@ -1,4 +1,4 @@
-Project Name: Service Ratings Predictor
+# Service Ratings Predictor
 
 Dataset information:The dataset consists of the information about the reviews and feedback that have been provided by the customers on the services offered by business organisations across USA and Canada.
 
